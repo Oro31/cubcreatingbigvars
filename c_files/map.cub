@@ -1,0 +1,17 @@
+R 640 480
+NO ./sprites/wallNO.XPM
+SO ./sprites/wallSO.XPM
+WE ./sprites/wallWE.XPM
+EA ./sprites/wallEA.XPM
+
+S ./sprites/item.XPM
+F 220,100,0
+C 225,30,0
+
+    1111111111
+   1100000001
+  1002011111
+
+ 1110000101
+ 100010N001
+11111111111
